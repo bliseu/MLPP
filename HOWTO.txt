@@ -1,0 +1,2 @@
+source为原始文件，运行slice程序可切割成input1和2，作为神经网络的输入输出。
+tpnn为神经网络代码，需在TensorFlow环境中运行。
