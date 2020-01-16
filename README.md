@@ -1,3 +1,3 @@
 # MLPP
 Machine learning predictor package
-BY Yuheng Shi, Shangchao Su and Bin Li
+BY Lei Ti, Yuheng Shi, Shangchao Su and Bin Li
